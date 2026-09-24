@@ -2,5 +2,7 @@
   "name": "Flappy Bird Clone",
   "description": "A complete, self-contained Flappy Bird arcade game clone featuring dynamic canvas graphics, smooth physics, and audio.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
